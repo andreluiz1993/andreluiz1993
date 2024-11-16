@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**andreluiz1993/andreluiz1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hi there 👋
 
 - 🔭 Eu trabalho como professor de matemática ...
 - 🌱 Estou aprendendo python e Data Science ...
